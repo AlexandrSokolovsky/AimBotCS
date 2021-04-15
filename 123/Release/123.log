@@ -1,0 +1,22 @@
+﻿  Source.cpp
+c:\users\администратор\source\repos\123\123\source.cpp(269): warning C4101: tempCoords: неиспользованная локальная переменная
+c:\users\администратор\source\repos\123\123\source.cpp(324): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\администратор\source\repos\123\123\source.cpp(325): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\администратор\source\repos\123\123\source.cpp(330): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\администратор\source\repos\123\123\source.cpp(347): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\администратор\source\repos\123\123\source.cpp(351): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\администратор\source\repos\123\123\source.cpp(411): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\администратор\source\repos\123\123\source.cpp(412): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\администратор\source\repos\123\123\source.cpp(429): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\администратор\source\repos\123\123\source.cpp(432): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\администратор\source\repos\123\123\source.cpp(470): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\администратор\source\repos\123\123\source.cpp(510): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\администратор\source\repos\123\123\source.cpp(515): warning C4477: "printf": в строке форматирования "%08X" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "HMODULE"
+c:\users\администратор\source\repos\123\123\source.cpp(519): warning C4477: "printf": в строке форматирования "%08X" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "HMODULE"
+c:\users\администратор\source\repos\123\123\source.cpp(523): warning C4477: "printf": в строке форматирования "%08X" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "HMODULE"
+  Создание кода
+  2 of 890 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  123.vcxproj -> C:\Users\Администратор\source\repos\123\Release\123.exe
